@@ -4,7 +4,7 @@
 
 ## 🖥️ Projeto
 
-O projeto é uma cápsula do tempo para exibir memórias eem uma linha do tempo.
+O projeto é uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
 ## 🚀 Tecnologia
 
